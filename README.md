@@ -3,8 +3,6 @@
 
 ## A filter app was created using the PoseNet Neural Network.
 
-
-
 ## *Code key points :*
 
 * Bootstrap;
