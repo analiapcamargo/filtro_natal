@@ -1,7 +1,7 @@
 
 # Christmas Online Webcam Filter
 
-## A filter app was created using the PoseNet neural network.
+## A filter app was created using the PoseNet Neural Network.
 
 
 
